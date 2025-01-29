@@ -16,7 +16,13 @@ This section contains various shell scripts I've written for different tasks.
     The sum of 10 and 20 is: 30
     ```
 *   **Screenshot:**
+  
+    ***Script***
+    
     ![Script](https://github.com/user-attachments/assets/ba83a56d-3554-4b28-b690-4c8728783a95)
+
+    ***Execution***
+    
     ![Execution](https://github.com/user-attachments/assets/d3063014-2f34-4b1f-97a1-dcce415552a2)
 
 
@@ -44,8 +50,14 @@ This section contains various shell scripts I've written for different tasks.
     existing_file.txt  another_file.c  ... (other files)
     ```
 *   **Screenshot:**
+
+    ***Script***
+  
     ![Script](https://github.com/user-attachments/assets/551b9ec5-870d-41d0-ba9c-547cbb9f2dea)
-*   ![Execution](https://github.com/user-attachments/assets/6927fafa-142c-4019-98a6-08c67403d7bc)
+
+    ***Execution***
+    
+    ![Execution](https://github.com/user-attachments/assets/6927fafa-142c-4019-98a6-08c67403d7bc)
 
 
 ## C Program
@@ -68,7 +80,8 @@ This section contains the C program.
     B Nanda Kishore Reddy
     ```
 *   **Screenshot:**
-*   ![Execution](https://github.com/user-attachments/assets/551b9ec5-870d-41d0-ba9c-547cbb9f2dea)
+  
+    ![Execution](https://github.com/user-attachments/assets/551b9ec5-870d-41d0-ba9c-547cbb9f2dea)
 
 
 ### (Add more C program descriptions as needed)
